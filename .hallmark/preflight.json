@@ -1,0 +1,9 @@
+{
+  "date": "2026-07-23",
+  "framework": "Vinext / Next-compatible app router",
+  "font_stack": "Geist + Geist Mono via next/font",
+  "palette": "Starter palette replaced with OKLCH Hallmark tokens",
+  "motion": "No motion library; CSS-only restrained interactions",
+  "spacing": "Hallmark 4pt semantic scale",
+  "preserved": ["Vinext structure", "Geist font loading", "Tailwind v4 entry import"]
+}
